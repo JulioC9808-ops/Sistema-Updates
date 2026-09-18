@@ -57,6 +57,5 @@ Cada instalación de escritorio queda vinculada a una huella única del equipo, 
 
 ## Soporte
 
-Para reportar un problema o sugerir una mejora, abre un issue en este repositorio.
+Para reportar un problema o sugerir una mejora, puedes escribirme al **[Julio](wa.me+5351616816)**
 
-Cambié el enfoque completo: ahora es un README de producto — describe qué hace la app y cómo se usa, sin mencionar detalles internos del mecanismo de actualización ni del repositorio en sí. Cópialo y pégalo tal cual en el editor de GitHub cuando quieras.
