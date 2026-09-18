@@ -57,5 +57,5 @@ Cada instalación de escritorio queda vinculada a una huella única del equipo, 
 
 ## Soporte
 
-Para reportar un problema o sugerir una mejora, puedes escribirme al **[Julio](wa.me+5351616816)**
+Para reportar un problema o sugerir una mejora, puedes escribirme a **[Julio](wa.me+5351616816)**
 
