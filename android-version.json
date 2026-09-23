@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.2",
+  "versionName": "1.3",
   "apkUrl": "https://github.com/JulioC9808-ops/Sistema-Updates/releases/download/android/app-release-signed.apk",
   "sha256": "",
   "changelog": "Nueva versión 1.2 con muchas mejoras de UI + Seguridad, y ya implementado; Las tasas de Cambio de dolares y + tipos de monedas en la pantalla Principal(se actualiza solo a las 10AM y 10PM.",
