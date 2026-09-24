@@ -1,0 +1,14 @@
+{
+  "updated": "2026-09-24T02:16:08.086Z",
+  "masterSwitch": true,
+  "allowNewActivations": true,
+  "blocked": [
+    {
+      "deviceId": "GV-951A-681F",
+      "friendlyId": "GV-951A-681F",
+      "reason": "Por pato",
+      "blockedAt": "2026-09-23T23:20:05.579Z"
+    },
+  ],
+  "legacyTerminals": []
+}
