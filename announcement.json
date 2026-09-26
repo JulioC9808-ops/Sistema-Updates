@@ -1,6 +1,8 @@
 {
-  "id": "2026-09-22-2",
-  "title": "Bienvenido",
-  "message": "Hola, por esta via les mantendré informado si actualizar la apk de emergencia o no.",
-  "active": true
+  "id": "Prueba01.1",
+  "active": true,
+  "type": "info",
+  "title": "Hola",
+  "message": "Hola chicos que tal",
+  "date": "2026-09-26T17:03:05.177Z"
 }
