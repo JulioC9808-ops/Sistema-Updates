@@ -1,1 +1,26 @@
-
+{
+  "version": 1,
+  "updated": "2026-09-26T17:09:58.311Z",
+  "masterSwitch": true,
+  "allowNewActivations": true,
+  "blocked": [
+    {
+      "deviceId": "GV-2604-C689",
+      "friendlyId": "GV-9642-A086",
+      "id": "GV-9642-A086",
+      "reason": "Licencia suspendida",
+      "blockedAt": "2026-09-26T17:09:55.410Z"
+    }
+  ],
+  "blockedDevices": [
+    {
+      "deviceId": "GV-2604-C689",
+      "friendlyId": "GV-9642-A086",
+      "id": "GV-9642-A086",
+      "reason": "Licencia suspendida",
+      "blockedAt": "2026-09-26T17:09:55.410Z"
+    }
+  ],
+  "legacyTerminals": [],
+  "legacyDevices": []
+}
